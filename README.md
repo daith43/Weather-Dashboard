@@ -1,7 +1,7 @@
 # Weather-Dashboard 🌤️
 
 
-## Dashboard del clima, introduce una ciudad o país y te informa de diferentes parámetros del clima usando la API de Open Weather API
+## Dashboard del clima, introduce una ciudad y te informa de diferentes parámetros del clima usando la API de Open Weather API
 <br>
 
 Link al sitio:
